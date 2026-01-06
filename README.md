@@ -4,6 +4,14 @@
 
 ### Real-Time Bias & Tone Auditing for Creative Teams
 
+
+
+
+https://github.com/user-attachments/assets/4ea1a618-4137-4e4b-a2b5-35475664f433
+
+
+
+
 *An agentic AI platform that helps enterprises scale content responsibly*
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -11,7 +19,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-[Demo](#-demo) • [Features](#-features) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
+
 
 </div>
 
@@ -278,13 +286,12 @@ PORT=8000
 <div align="center">
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]<img width="994" height="502" alt="Screenshot 2026-01-05 at 10 01 08 PM" src="https://github.com/user-attachments/assets/bdfef766-0caf-4b33-89e5-17e2b34b09aa" />
+
 
 ### Analysis Results
-![Results](screenshots/results.png)
+![Results]<img width="1470" height="956" alt="Screenshot 2026-01-05 at 10 00 54 PM" src="https://github.com/user-attachments/assets/93cfb5e4-c01f-4023-922f-0b23f9556e7f" />
 
-### Report Export
-![Export](screenshots/export.png)
 
 </div>
 
@@ -351,10 +358,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 AI Intern @ Yellow.ai  
 
 Focused on Agentic AI, Trustworthy LLMs, and Ethical AI Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
 ---
 
