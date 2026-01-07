@@ -19,7 +19,7 @@ class OrchestratorAgent:
         # 1. RULE-BASED AUDIENCE SIMULATION
         # -----------------------------
         audience_results = [
-            self.audience_agent.simulate(content, p)
+            self.audience_agent.simulate_llm(content, p)
             for p in PERSONAS
         ]
 
